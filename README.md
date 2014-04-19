@@ -1,3 +1,1 @@
-The package icons must be stored in this branch. For the `<iconUrl>` tag in the packages, do not use the raw URL, but the URL to the related GitHub Pages site.
-Not to use: https://raw.github.com/TomOne/chocolatey-packages/gh-pages/icons/alldup.png
-Example of a correct URL to an icon: http://tomone.github.io/chocolatey-packages/icons/alldup.png
+This branch is now deprecated. The icons for TomOne’s Chocolatey packages are now located at https://github.com/TomOne/chocolatey-packages/tree/master/icons. Read the [README.md](https://github.com/TomOne/chocolatey-packages/blob/master/README.md) for more informations on how to properly use the package icons.
