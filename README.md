@@ -1,4 +1,9 @@
+# Deprecated repository
+
+My packages are now in https://github.com/chocolatey/chocolatey-coreteampackages
+
 # TomOne’s Chocolatey packages
+
 A set of automatic and manual packages for [Chocolatey](https://chocolatey.org/)
 
 ## Notes on the icons
